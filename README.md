@@ -32,8 +32,6 @@ SQL – Advanced data wrangling
 
 📊 Filterable dashboard by client, product, and date
 
-🔍 KPI highlights (revenue, top regions, top categories)
-
 📅 Monthly sales trend and YoY comparison
 
 ✅ Outcomes
